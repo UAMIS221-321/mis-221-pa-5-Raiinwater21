@@ -1,0 +1,15 @@
+/Users/rainwater/Desktop/University of Alabama/MIS 221 spring 23/C#/Labs and PAs/mis-221-pa-5-Raiinwater21/obj/Debug/net6.0/mis-221-pa-5-Raiinwater21.csproj.AssemblyReference.cache
+/Users/rainwater/Desktop/University of Alabama/MIS 221 spring 23/C#/Labs and PAs/mis-221-pa-5-Raiinwater21/obj/Debug/net6.0/mis-221-pa-5-Raiinwater21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rainwater/Desktop/University of Alabama/MIS 221 spring 23/C#/Labs and PAs/mis-221-pa-5-Raiinwater21/obj/Debug/net6.0/mis-221-pa-5-Raiinwater21.AssemblyInfoInputs.cache
+/Users/rainwater/Desktop/University of Alabama/MIS 221 spring 23/C#/Labs and PAs/mis-221-pa-5-Raiinwater21/obj/Debug/net6.0/mis-221-pa-5-Raiinwater21.AssemblyInfo.cs
+/Users/rainwater/Desktop/University of Alabama/MIS 221 spring 23/C#/Labs and PAs/mis-221-pa-5-Raiinwater21/obj/Debug/net6.0/mis-221-pa-5-Raiinwater21.csproj.CoreCompileInputs.cache
+/Users/rainwater/Desktop/University of Alabama/MIS 221 spring 23/C#/Labs and PAs/mis-221-pa-5-Raiinwater21/bin/Debug/net6.0/mis-221-pa-5-Raiinwater21
+/Users/rainwater/Desktop/University of Alabama/MIS 221 spring 23/C#/Labs and PAs/mis-221-pa-5-Raiinwater21/bin/Debug/net6.0/mis-221-pa-5-Raiinwater21.deps.json
+/Users/rainwater/Desktop/University of Alabama/MIS 221 spring 23/C#/Labs and PAs/mis-221-pa-5-Raiinwater21/bin/Debug/net6.0/mis-221-pa-5-Raiinwater21.runtimeconfig.json
+/Users/rainwater/Desktop/University of Alabama/MIS 221 spring 23/C#/Labs and PAs/mis-221-pa-5-Raiinwater21/bin/Debug/net6.0/mis-221-pa-5-Raiinwater21.dll
+/Users/rainwater/Desktop/University of Alabama/MIS 221 spring 23/C#/Labs and PAs/mis-221-pa-5-Raiinwater21/bin/Debug/net6.0/mis-221-pa-5-Raiinwater21.pdb
+/Users/rainwater/Desktop/University of Alabama/MIS 221 spring 23/C#/Labs and PAs/mis-221-pa-5-Raiinwater21/obj/Debug/net6.0/mis-221-pa-5-Raiinwater21.dll
+/Users/rainwater/Desktop/University of Alabama/MIS 221 spring 23/C#/Labs and PAs/mis-221-pa-5-Raiinwater21/obj/Debug/net6.0/refint/mis-221-pa-5-Raiinwater21.dll
+/Users/rainwater/Desktop/University of Alabama/MIS 221 spring 23/C#/Labs and PAs/mis-221-pa-5-Raiinwater21/obj/Debug/net6.0/mis-221-pa-5-Raiinwater21.pdb
+/Users/rainwater/Desktop/University of Alabama/MIS 221 spring 23/C#/Labs and PAs/mis-221-pa-5-Raiinwater21/obj/Debug/net6.0/mis-221-pa-5-Raiinwater21.genruntimeconfig.cache
+/Users/rainwater/Desktop/University of Alabama/MIS 221 spring 23/C#/Labs and PAs/mis-221-pa-5-Raiinwater21/obj/Debug/net6.0/ref/mis-221-pa-5-Raiinwater21.dll
